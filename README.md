@@ -1,0 +1,1 @@
+This is the repo for my work for Medialyze Marketing website using django-cms. This repository is in active development and can change at anytime. This is all new to me so I'm considering it a learning experience. -K
